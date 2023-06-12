@@ -8,3 +8,5 @@ console.log(myArray);
 console.log(myArray.reverse())
 
 console.log(myArray.sort())
+
+function = () => 

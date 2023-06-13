@@ -5,8 +5,15 @@ myArray.push(39);
 
 console.log(myArray);
 
-console.log(myArray.reverse())
+console.log(myArray.reverse());
 
-console.log(myArray.sort())
+console.log(myArray.sort());
 
-function = () => 
+ligma = () => {
+  console.log("hehe");
+};
+
+ligma();
+
+console.log()
+

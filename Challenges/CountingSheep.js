@@ -50,3 +50,11 @@ function countSheeps(arrayOfSheep) {
   }
   return count;
 }
+
+
+const myFunc = () => {
+  console.log("HI")
+
+}
+
+myFunc();
